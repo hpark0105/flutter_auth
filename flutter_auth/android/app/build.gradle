@@ -1,0 +1,3 @@
+defaultConfig {
+    applicationId "parkenstein.88.flutter-auth"
+} 
